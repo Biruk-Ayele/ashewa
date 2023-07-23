@@ -1,5 +1,5 @@
 .title {
-    background-color: #116D6E;   
+    background-color: #116D6E;
 }
 
 
@@ -11,7 +11,7 @@
     color: white;
 }
 
-.titleDescription2h1{
+.titleDescription2h1 {
     letter-spacing: 1px;
     word-spacing: 5px;
     color: #116D6E;
@@ -19,26 +19,26 @@
     text-align: center;
 }
 
-.titleDescription2p{
+.titleDescription2p {
     color: #666;
     padding: 0 5% 5%;
     text-align: center;
 }
 
-.navbarBrand{
+.navbarBrand {
     font-size: 1.5rem;
 }
 
-.signUpButton{
+.signUpButton {
     padding: 5% 3% 5% 0;
 }
 
 .cardBody {
-   padding: 0;
+    padding: 0;
 }
 
 .cardText {
-  margin-bottom: 0;
+    margin-bottom: 0;
 }
 
 .carousel {
@@ -46,10 +46,20 @@
     padding: 5% 15%;
 }
 
-.carousel2{
+.carousel2 {
     margin-top: 20px;
 }
 
-.carousel_1_2{
+.carousel_1_2 {
     margin-top: 10px;
+}
+
+.footer {
+    margin-bottom: 0;
+    text-align: center;
+    background-color: #116D6E;
+}
+
+.footer h1 {
+   margin-bottom: 0;
 }
