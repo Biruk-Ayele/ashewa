@@ -7,7 +7,7 @@ import Container from 'react-bootstrap/Container';
 export default function Footer() {
     return (
         <div className={utilStyles.footer}>
-            <p>copy right</p>
+            <p style={{marginBottom: 0}}>copy right</p>
         </div>
     )
 }

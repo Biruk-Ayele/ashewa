@@ -63,3 +63,13 @@
 .footer h1 {
    margin-bottom: 0;
 }
+
+.items{
+    padding: 20px 20px 20px 300px;
+}
+
+@media (max-width: 900px) {
+    .items{
+        padding: 20px ;
+    }
+}

@@ -2,6 +2,8 @@ import { Metadata } from "next";
 import CollapsibleNav from "../../../components/nav-bar";
 import GridCard from "../../../components/Card";
 import Link from "next/link";
+import utilStyles from '../../../styles/utils.module.css';
+
 
 
 
@@ -15,7 +17,7 @@ export default function Home() {
       <main >
         
         <CollapsibleNav />  
-        <div className="flex min-h-screen flex-col items-center justify-between p-24">
+        <div className={utilStyles.items} >
           <GridCard />
         <Link href="/shose/kids" replace>Kids</Link>
 
