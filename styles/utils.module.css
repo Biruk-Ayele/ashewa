@@ -1,5 +1,5 @@
 .title {
-    background-color: #116D6E;
+    background-color: #ffffff;
 }
 
 
@@ -8,13 +8,13 @@
     font-weight: 400, 700;
     padding: 3% 15%;
     font-size: 2.5rem;
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 .titleDescription2h1 {
     letter-spacing: 1px;
     word-spacing: 5px;
-    color: #116D6E;
+    color: #000000;
     padding: 5% 10% 0;
     text-align: center;
 }
@@ -66,6 +66,10 @@
 
 .items{
     padding: 20px 20px 20px 300px;
+}
+
+.slickItem {
+    padding: 0 10px;
 }
 
 @media (max-width: 900px) {

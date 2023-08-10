@@ -13,7 +13,7 @@ export default function Title() {
     <Container fluid>
         <Row>
             <Col lg={6}><div>
-                <h1>The best ecommerce platform in Ethiopia.</h1>
+                <h1>Lorem ipsum dolor sit amet, consectetur.</h1>
                 <div className={utilStyles.signUpButton}>
                 <Button variant="dark" size="lg">Sign-up</Button>
                 </div>

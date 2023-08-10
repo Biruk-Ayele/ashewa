@@ -1,8 +1,8 @@
 import CollapsibleNav from "../../components/nav-bar"
 import Title from "../../components/title"
 import HomeDescrition from "../../components/Descrition"
-import NewCarousel from "../../components/NewCarousel"
 import Footer from "../../components/footer"
+import SlickItems from "../../components/Slick"
 
 export default function Home() {
   return (
@@ -11,7 +11,7 @@ export default function Home() {
       <CollapsibleNav />
       <Title />
       <HomeDescrition />
-      <NewCarousel />
+      <SlickItems />
       <Footer />
 
     </main>

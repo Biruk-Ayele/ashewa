@@ -12,8 +12,8 @@ export default function HomeDescrition() {
       <Container fluid>
         <Row>
           <Col>
-            <h1 className={utilStyles.titleDescription2h1}><strong>በተመረጡ ጥቅማጥቅሞች የንግድ ልምድዎን ያብጁ!</strong></h1>
-            <p className={utilStyles.titleDescription2p}>Grow and succeed with curated benefits offered by Ashewa.com, whether you are a startup business needing the essentials to start sourcing or a well-established enterprise looking for tools and services for more complex orders.</p>
+            <h1 className={utilStyles.titleDescription2h1}><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit</strong></h1>
+            <p className={utilStyles.titleDescription2p}>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu mi bibendum neque egestas. Purus non enim praesent elementum facilisis.</p>
           </Col>
         </Row>
       </Container>
